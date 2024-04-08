@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(4, 0, 255);
+    text-align: center;
+    
+}
+.principal{
+    background-color: aquamarine;
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left:20px;
+    text-align: left;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+#banner{
+   width: 100%;
+}
+p{
+    text-align: center;
+
+}
+#missao{
+    font-size: 20px;
+
+}
+
+em strong{
+    color: hsl(232, 100%, 50%);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.beneficios{
+   background-color: aquamarine;
+   padding: 20px;
+   
+}
+.listabeneficios{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;   
+}*/
+.itens{
+    font-style: italic;
+}
+.imagem{
+    width: 50%;
+}
